@@ -1,3 +1,16 @@
-// Branding overrides
-//
-// Copy variables from `_branding.scss` to this file to override default values.
+/** BRANDING COLORS
+ * primary (default pink): sidebar color, admitted dashboard status
+ * secondary (default purple): header text, submitted/confirmed/checked-in dashboard status
+ * tertiary (default blue): waitlist/declined dashboard status
+ */
+
+$primary: #9e1b32;
+$secondary: #828a8f;
+$tertiary: #5f6a72;
+
+/** ASSET URLS
+ * login-bg: image for login splash page 
+ */
+
+$login-bg:
+url('https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/17626290_1424863104231030_4794514788363032319_n.jpg?oh=220ac3e7a8beb48ee9f739c4d13a399c&oe=594F2EBC');
