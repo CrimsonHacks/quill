@@ -775,5 +775,9 @@
     "fiu.edu": {
         "school": "Florida International University",
         "state": "Florida"
+    },
+    "crimson.ua.edu":{
+        "school": "The university of Alabama",
+        "state":"Alabama"
     }
 }
